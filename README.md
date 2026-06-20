@@ -77,3 +77,14 @@ The Tableau dashboard will give insights on:
 Natasha Menon
 
 Master's Student (Business Analytics and Data Science)
+
+## 📊 Dashboard Preview
+
+This dashboard visualizes job market trends extracted and transformed using an ETL pipeline.
+
+![Job Market Dashboard](assets/dashboard.jpeg)
+
+Key insights include:
+- Top job roles in demand  
+- Salary distribution trends  
+- Skills frequency analysis   
