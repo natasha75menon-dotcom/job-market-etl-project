@@ -60,6 +60,8 @@ Extract Jobs → Transform Jobs → Load Jobs
 
 The Airflow DAG successfully executes all ETL stages and loads processed data into PostgreSQL for dashboard reporting.
 
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/4dc18013-7a95-4433-a2b9-7362d306465b" />
+
 ---
 
  Project Structure
